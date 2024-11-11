@@ -6,7 +6,9 @@ This repository cotains the code for a simple backend web application that showc
 
 ## Live Demo
 
-Check out a live demo of the application [here](https://manual-google-oauth.onrender.com).
+<!-- Check out a live demo of the application [here](https://manual-google-oauth.onrender.com). -->
+
+Due to Google Web Risk protocols, the deployed version of the application has been brought down. To test the application, you can consider [running it locally](#running-the-application-locally)
 
 ## Techologies Used
 
